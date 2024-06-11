@@ -1,4 +1,4 @@
-### Olá, Seja bem vindo ao meu perfil!! ↓↓↓
+# Olá, Seja bem vindo ao meu perfil!! ↓↓↓
 
 Me chamo **Thiago Alves Costa Araujo**
 
@@ -6,10 +6,13 @@ Me chamo **Thiago Alves Costa Araujo**
 - 💻 Busco aprender cada dia mais sobre linguagens de programação que sejam De Back-end ou Front-end, como o Javascript
 - 📋 Crie alguns projetos de Games e Abas de Recomendações!!
 - 🥇 Irei aqui demonstrar projetos, Cursos e qualquer que seja um aumento no meu portifólio como Programador
+  
 
-?theme=algolia
+![Thyago001 GitHub stats](https://github-readme-stats.vercel.app/api?username=Thyago001&show_icons=true&theme=chartreuse-dark&locale=pt-br)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thyago&theme=algolia&locale=pt-br&layout=compact )
 
-### Entre em contato comigo pelo meu Email ↓↓↓
+
+#### Entre em contato comigo pelo meu Email ↓↓↓
 00001091053522sp@al.educacao.sp.gov.br
 
 ```@Thyago001```
