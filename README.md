@@ -7,6 +7,8 @@ Me chamo **Thiago Alves Costa Araujo**
 - 📋 Crie alguns projetos de Games e Abas de Recomendações!!
 - 🥇 Irei aqui demonstrar projetos, Cursos e qualquer que seja um aumento no meu portifólio como Programador
 
+?theme=algolia
+
 ### Entre em contato comigo pelo meu Email ↓↓↓
 00001091053522sp@al.educacao.sp.gov.br
 
