@@ -1,20 +1,62 @@
-# Olá, Seja bem vindo ao meu perfil!! ↓↓↓
+
+<div align="center">
+  <h1 style="'monospace;">👨‍💻 Hello World!! Seja bem vindo ao meu perfil ↓↓↓ <span style="font-size: 150%;"></span></h1>
+</div>
 
 Me chamo **Thiago Alves Costa Araujo**
+```@Thyago001```
 
 - 📖 Estudo na Escola Salvador de Leone e no momento estou realizando um Curso da Plataforma Alura
 - 💻 Busco aprender cada dia mais sobre linguagens de programação que sejam De Back-end ou Front-end, como o Javascript
 - 📋 Crie alguns projetos de Games e Abas de Recomendações!!
 - 🥇 Irei aqui demonstrar projetos, Cursos e qualquer que seja um aumento no meu portifólio como Programador
+
+  ---
+
+![Thyago001 GitHub stats](https://github-readme-stats.vercel.app/api?username=Thyago001&show_icons=true&theme=transparent&locale=pt-br)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thyago&theme=transparent&locale=pt-br&layout=normal&langs_count=3)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.gmail.com/00001091053522sp@al.educacao.sp.gov.br/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Thiago_alves0001/)
+[![Scratch](https://img.shields.io/badge/Scratch-FF6600?style=for-the-badge&logo=Scratch&logoColor=white&logo=https://banner2.cleanpng.com/20180331/zdq/kisspng-scratch-computer-programming-visual-programming-la-scratches-5abf2e169fb533.7652527615224786146542.jpg)](https://scratch.mit.edu/users/THIAGO-2B-TI-LEONE/)
+
+---
+<!-- GIF -->
+<p align="left">
+  <img align="center" src="https://i.pinimg.com/originals/6b/13/c5/6b13c5f67c072fd6c531107b51b70359.gif">
+</p>
+
+---
+
+## 🔥 Skills
+<!-- Skills: Programming Languages -->
+  <div style="flex-basis: 48%;">
+    <h3>Linguagens de Programação</h3>
+    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  </div>
   
+  <!-- Skills: Tools & Frameworks -->
+  <div style="flex-basis: 48%;">
+    <h3>Ferramentas</h3>
+    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+<img align="center" alt="P5.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/p5js/p5js-original.svg">
+  </div>
+    
+  
+  <!-- Skills: Libraries -->
+  <div style="flex-basis: 48%;">
+    <h3>Bibliotecas</h3>
+    <img align="center" alt="Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
+  </div>
 
-![Thyago001 GitHub stats](https://github-readme-stats.vercel.app/api?username=Thyago001&show_icons=true&theme=chartreuse-dark&locale=pt-br)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thyago&theme=algolia&locale=pt-br&layout=compact )
+
+---
+<div align="center">
+  <p><i>Aqui você poderá ver um pouco de alguns dos meus trabalhos aos quais fiz durante o período do Curso</i></font></p>
+</div>
 
 
-#### Entre em contato comigo pelo meu Email ↓↓↓
-00001091053522sp@al.educacao.sp.gov.br
+---
 
-```@Thyago001```
-
-_Aqui você poderá ver um pouco de alguns dos meus trabalhos aos quais fiz durante o periodo do Curso_
