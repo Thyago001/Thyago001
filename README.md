@@ -6,9 +6,9 @@
 Me chamo **Thiago Alves Costa Araujo**
 ```@Thyago001```
 
-- 📖 Estudo na Escola Salvador de Leone e no momento estou realizando um Curso da Plataforma Alura
-- 💻 Busco aprender cada dia mais sobre linguagens de programação que sejam De Back-end ou Front-end, como o Javascript
-- 📋 Crie alguns projetos de Games e Abas de Recomendações!!
+- 📖 Estudo na Ufscar de Sorocaba e no momento estou cursando Ciência da Computação
+- 💻 Busco aprender cada dia mais sobre linguagens de programação que sejam De Back-end ou Front-end
+- 📋 Crio alguns projetos de Games e Abas de Recomendações!!
 - 🥇 Irei aqui demonstrar projetos, Cursos e qualquer que seja um aumento no meu portifólio como Programador
 
   ---
