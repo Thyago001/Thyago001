@@ -6,10 +6,7 @@
 </div>
 
 ---
- Me chamo **Thiago Alves Costa Araújo** 
-▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔
-``` @Thyago001 ``` 
-### 📘 Sobre mim
+ Me chamo **Thiago Alves Costa Araújo**  ``` @Thyago001 ``` 
 
 - 🎓 **Estudante de Ciência da Computação** na **UFSCar - Sorocaba**
 - 💻 Em constante aprendizado de tecnologias **Front-end** e **Back-end**
