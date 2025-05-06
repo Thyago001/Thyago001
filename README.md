@@ -62,7 +62,7 @@
 ![Manim](https://img.shields.io/badge/Manim-000000?style=for-the-badge&logo=manim&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![English](https://img.shields.io/badge/English-2E2E2E?style=for-the-badge&logo=googletranslate&logoColor=4FC3F7)
+![English](https://img.shields.io/badge/English-00CEFF?style=for-the-badge&logo=googletranslate&logoColor=4FC3F7)
 ![Honda Civic](https://img.shields.io/badge/Honda_Civic-black?style=for-the-badge&logo=honda&logoColor=red)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Zorin OS](https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white)
