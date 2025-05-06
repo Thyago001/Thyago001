@@ -9,9 +9,7 @@
 
 
 ▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔
-<h3 align="center">Me chamo <strong>Thiago Alves Costa Araujo</strong> </h3> 
-  
-<h3 align="center">Me chamo <strong>Thiago Alves Costa Araujo</strong> <br/> <code>a</code></h3>
+<h3 align="center">Me chamo **Thiago Alves Costa Araujo** </h3> 
 ---
 
 ### 📘 Sobre mim
