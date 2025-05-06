@@ -25,7 +25,6 @@ Me chamo Thiago Alves Costa Araújo @Thyago001
 ---
 ![Lua](https://img.shields.io/badge/Lua-007ACC?style=for-the-badge&logo=lua&logoColor=white)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:0D1117&height=200&section=header&text=Olá,%20Sou%20o%20Thiago!&fontSize=30&fontAlignY=40&animation=fadeIn&desc=Desenvolvedor%20em%20formação&descSize=20&descAlign=60&descAlignY=65&stroke=00ff9f" />
 
 
   ---
