@@ -12,14 +12,16 @@
 
 - 💻 Em constante aprendizado de tecnologias **Front-end** e **Back-end**
 
-- 🕹️ Crio projetos de **Games** e **Abas de Recomendação**
+- 🕹️ Crio projetos **Diversos**, **Mini-Games** e **Abas de Recomendação**
 
-- 📈 Uso este espaço para registrar e demonstrar minha evolução como programador
+- 📈 Uso este espaço para registrar e demonstrar minha evolução como programador!!
 
 - 🧠 Focado em adquirir conhecimento e criar um portfólio sólido
 
 ---
 
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Thyago001&show_icons=true&hide_border=true&theme=github_dark&border_radius=0&border_color=30363d&hide_title=true&locale=pt-br&card_width=550"/></a> <a href="#"><img src="https://streak-stats.demolab.com/?user=Thyago001&hide_border=true&theme=github-dark-blue&border_radius=0&border=30363d&locale=pt-BR&card_width=550"/></a>
+|--|--|
 
 ![Thyago001 GitHub stats](https://github-readme-stats.vercel.app/api?username=Thyago001&show_icons=true&theme=transparent&locale=pt-br)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thyago&theme=transparent&locale=pt-br&layout=normal&langs_count=3)
