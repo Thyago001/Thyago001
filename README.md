@@ -33,7 +33,7 @@
     <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thyago001&hide_border=true&theme=default&border_radius=10&layout=compact&locale=pt-br&langs_count=6&title_color=ff5555&text_color=ffffff&bg_color=0d1117"/>
   </a>
   <a href="#">
-   <img width="62%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thyago001&theme=2077" />
+   <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thyago001&theme=2077" />
 
 </p>
 
