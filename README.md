@@ -11,17 +11,14 @@
 ```
 <a href="#"> <img align="left" src="./DarkMeAndaCivicAnime.png" width="20%"/> </a>
 
-``` lua
-Thiago@GitHub
-▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔
+lua
 Me chamo Thiago Alves Costa Araújo @Thyago001
+▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔
+- 📖 Formação: Estudo na **Ufscar** de Sorocaba e no momento estou cursando **Ciência da Computação**
+- 💻 Metas: Busco aprender cada dia mais sobre linguagens de programação que sejam De Back-end ou Front-end
+- 📋 O que faço: Crio alguns projetos de Games e Abas de Recomendações!!
+- 🥇 Objetivo: Irei aqui demonstrar projetos, Cursos e qualquer que seja um aumento no meu portifólio como Programador
 
-📖 Formação: Estudo na UFSCar de Sorocaba - Ciência da Computação  
-💻 Metas: Aprender cada vez mais sobre linguagens de programação, tanto back-end quanto front-end  
-📋 O que faço: Crio projetos de jogos e abas de recomendação  
-🥇 Objetivo: Mostrar meus projetos, cursos e evolução como programador
-<br><br>
-```
 ---
 
 
