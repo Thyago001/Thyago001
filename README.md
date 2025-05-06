@@ -64,14 +64,14 @@ Me chamo Thiago Alves Costa Araújo @Thyago001
     <img align="center" alt="Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
   </div>
   
----
+  <div style="flex-basis: 48%;">
 
 <p align="center">
     <a href="#"><img src="https://komarev.com/ghpvc/?username=Thyago001&style=for-the-badge&label=Views:&color=gray"/></a>
     <a href="#"><img src="https://custom-icon-badges.herokuapp.com/github/followers/Thyago001?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follows&logoColor=white"/></a>
 </p>
 
----
+  <div style="flex-basis: 48%;">
 
 <div align="center">
   <p><i>Aqui você poderá ver um pouco de alguns dos meus trabalhos aos quais fiz durante o período do Curso</i></font></p>
