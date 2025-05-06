@@ -5,7 +5,7 @@
 <a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FFFFFF
 &section=header"/>
 <a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&text=👨‍💻%20Hello%20World!!%20Seja%20bem%20vindo%20ao%20meu%20perfil%20↓↓↓&section=header&fontAlign=50&fontAlignY=50&fontSize=30&reversal=true&textBg=false&animation=twinkling&stroke=ffffff&descAlign=50&descAlignY=50"/>
-  <a href="#"><img width="100%" src="https://readme-typing-svg.herokuapp.com?font=SUSE&size=30&pause=2000&color=FFFFFF&center=true&vCenter=true&width=1000&height=60&lines=Hello+World!!;Seja+bem-vindo(a)+ao+meu+perfil."/>
+  <a href="#"><img width="100%" src="https://readme-typing-svg.herokuapp.com?font=SUSE&size=30&pause=2000&color=FFFFFF&center=true&vCenter=true&width=1000&height=60&lines=Hello+World!!!;Seja+bem-vindo(a)+ao+perfil+Do...;THYAGO001"/>
 </div>
 
 ---
