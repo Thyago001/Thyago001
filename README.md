@@ -33,7 +33,7 @@
     <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thyago001&hide_border=true&theme=default&border_radius=10&layout=compact&locale=pt-br&langs_count=6&title_color=ff5555&text_color=ffffff&bg_color=0d1117"/>
   </a>
   <a href="#">
-    <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=Thyago001&bg_color=0d1117&color=ffffff&line=ff5555&point=ff5555&area=true&hide_border=true"/>
+    <img width="58%" src="https://github-readme-activity-graph.vercel.app/graph?username=Thyago001&bg_color=0d1117&color=ffffff&line=ff5555&point=ff5555&area=true&hide_border=true"/>
   </a>
 </p>
 
