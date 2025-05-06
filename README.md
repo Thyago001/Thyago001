@@ -8,8 +8,9 @@
 
 
 ▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔
-<h3 align="center">Me chamo <strong>Thiago Alves Costa Araujo</strong> <br/> <code>@Thyago001</code></h3>
-
+<h3 align="center">Me chamo <strong>Thiago Alves Costa Araujo</strong> h3> 
+  
+  ``` @Thyago001 ```
 ---
 
 ### 📘 Sobre mim
