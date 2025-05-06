@@ -21,10 +21,7 @@
 ---
 
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Thyago001&show_icons=true&hide_border=true&theme=github_dark&border_radius=0&border_color=30363d&hide_title=true&locale=pt-br&card_width=550"/></a> <a href="#"><img src="https://streak-stats.demolab.com/?user=Thyago001&hide_border=true&theme=github-dark-blue&border_radius=0&border=30363d&locale=pt-BR&card_width=550"/></a>
-|--|--|
-
-![Thyago001 GitHub stats](https://github-readme-stats.vercel.app/api?username=Thyago001&show_icons=true&theme=transparent&locale=pt-br)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thyago&theme=transparent&locale=pt-br&layout=normal&langs_count=3)
+|--|--| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thyago&theme=transparent&locale=pt-br&layout=normal&langs_count=3)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.gmail.com/00001091053522sp@al.educacao.sp.gov.br/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Thiago_alves0001/)
