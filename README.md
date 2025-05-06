@@ -9,9 +9,13 @@
  Me chamo **Thiago Alves Costa Araújo**  ``` @Thyago001 ``` 
 
 - 🎓 **Estudante de Ciência da Computação** na **UFSCar - Sorocaba**
+
 - 💻 Em constante aprendizado de tecnologias **Front-end** e **Back-end**
+
 - 🕹️ Crio projetos de **Games** e **Abas de Recomendação**
+
 - 📈 Uso este espaço para registrar e demonstrar minha evolução como programador
+
 - 🧠 Focado em adquirir conhecimento e criar um portfólio sólido
 
 ---
