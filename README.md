@@ -40,15 +40,10 @@
  
 ---
 
-<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Thyago001&show_icons=true&hide_border=true&theme=github_dark&border_radius=0&border_color=30363d&hide_title=true&locale=pt-br&card_width=550"/></a> <a href="#"><img src="https://streak-stats.demolab.com/?user=Thyago001&hide_border=true&theme=github-dark-blue&border_radius=0&border=30363d&locale=pt-BR&card_width=550"/></a>  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thyago&theme=transparent&locale=pt-br&layout=compact&langs_count=5)
-
-
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.gmail.com/00001091053522sp@al.educacao.sp.gov.br/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Thiago_alves0001/)
 [![Scratch](https://img.shields.io/badge/Scratch-FF6600?style=for-the-badge&logo=Scratch&logoColor=white&logo=https://banner2.cleanpng.com/20180331/zdq/kisspng-scratch-computer-programming-visual-programming-la-scratches-5abf2e169fb533.7652527615224786146542.jpg)](https://scratch.mit.edu/users/THIAGO-2B-TI-LEONE/)
 
-
----
 <!-- GIF -->
 <p align="left">
   <img align="center" src="https://i.pinimg.com/originals/6b/13/c5/6b13c5f67c072fd6c531107b51b70359.gif">
