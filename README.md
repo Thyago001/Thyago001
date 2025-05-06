@@ -11,6 +11,7 @@
 ```
 <a href="#"> <img align="left" src="./DarkMeAndaCivicAnime.png" width="20%"/> </a>
 
+``` zsh
 Thiago@GitHub
 ▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔
 Me chamo Thiago Alves Costa Araújo @Thyago001
@@ -20,7 +21,7 @@ Me chamo Thiago Alves Costa Araújo @Thyago001
 📋 O que faço: Crio projetos de jogos e abas de recomendação  
 🥇 Objetivo: Mostrar meus projetos, cursos e evolução como programador
 <br><br>
-
+```
 
   ---
 
