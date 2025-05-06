@@ -8,27 +8,22 @@
 > neofetch
 ```
 
-<a href="#"><img align="left" src="https://i.imgur.com/GrvWr5i.png" width="20%"/> 
+<a href="#"><img align="left" src="https://imgur.com/a/cUal3ts" width="20%"/> 
 
 
 ```lua
-DarkMode@GitHub
-▔▔▔▔▔▔▔▔▔
-OS: Windows 11 x64
-Shell: Windows Terminal
-Location: Brasil, SP
-Learning: HTML, CSS, JavaScript
-Languages: None
-Hobbies: Cheating in Games, Sleep, CyberSecurity.
+Me chamo Thiago Alves Costa Araújo @Thyago001
+▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔
+- 📖 Formação: Estudo na **Ufscar** de Sorocaba e no momento estou cursando **Ciência da Computação**
+- 💻 Metas: Busco aprender cada dia mais sobre linguagens de programação que sejam De Back-end ou Front-end
+- 📋 O que faço: Crio alguns projetos de Games e Abas de Recomendações!!
+- 🥇 Objetivo: Irei aqui demonstrar projetos, Cursos e qualquer que seja um aumento no meu portifólio como Programador
 ```
 
 
 
 ```
-- 📖 Estudo na **Ufscar** de Sorocaba e no momento estou cursando **Ciência da Computação**
-- 💻 Busco aprender cada dia mais sobre linguagens de programação que sejam De Back-end ou Front-end
-- 📋 Crio alguns projetos de Games e Abas de Recomendações!!
-- 🥇 Irei aqui demonstrar projetos, Cursos e qualquer que seja um aumento no meu portifólio como Programador
+
 ```
   ---
 
