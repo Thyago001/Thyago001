@@ -4,7 +4,9 @@
 <div align="center">
 <a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FFFFFF
 &section=header"/>
- <a href="#"><img width="100%" src="https://readme-typing-svg.herokuapp.com?font=SUSE&size=40&pause=2500&color=FF0000&center=true&vCenter=true&width=1000&height=60&lines=Hello+World!!!👨‍💻;Seja+bem-vindo(a)+ao+perfil+Do...;THYAGO001"/>
+ <a href="#"><img width="100%" src="https://readme-typing-svg.herokuapp.com?font=SUSE&size=40&pause=2500&color=FF0000&center=true&vCenter=true&width=1000&height=60&lines=Hello+World!!!;Seja+bem-vindo(a)+ao+perfil+Do...;THYAGO001"/>
+<a href="#"><img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=2000&color=FF0000&center=true&vCenter=true&width=1000&height=60&lines=Hello+World!!!;Seja+bem-vindo(a)+ao+perfil+Do...;THYAGO001&effect=typewriter"/>
+
 </div>
 
 ---
