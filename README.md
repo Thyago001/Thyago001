@@ -19,20 +19,21 @@
 - 🧠 Focado em adquirir conhecimento e criar um portfólio sólido
 
 ---
-<p align="center">
+<<p align="center">
   <a href="#">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Thyago001&show_icons=true&hide_border=true&theme=github_dark&border_radius=10&hide_title=true&locale=pt-br"/>
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Thyago001&show_icons=true&hide_border=true&theme=default&border_radius=10&hide_title=true&locale=pt-br&title_color=ff5555&icon_color=ff5555&text_color=ffffff&bg_color=0d1117"/>
   </a>
   <a href="#">
-    <img width="48%" src="https://streak-stats.demolab.com/?user=Thyago001&hide_border=true&theme=github_dark&border_radius=10&locale=pt-BR"/>
+    <img width="48%" src="https://streak-stats.demolab.com?user=Thyago001&hide_border=true&theme=default&border_radius=10&locale=pt-BR&ring=ff5555&fire=ff5555&currStreakLabel=ff5555&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff&background=0d1117"/>
   </a>
 </p>
 
 <p align="center">
   <a href="#">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thyago001&hide_border=true&theme=github_dark&border_radius=10&layout=compact&locale=pt-br&langs_count=6"/>
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thyago001&hide_border=true&theme=default&border_radius=10&layout=compact&locale=pt-br&langs_count=6&title_color=ff5555&text_color=ffffff&bg_color=0d1117"/>
   </a>
 </p>
+
 
  
 ---
