@@ -8,7 +8,7 @@
 > neofetch
 ```
 
-<a href="#"><img align="left" src="https://imgur.com/AWgaYrh" width="20%"/> 
+<a href="#"><img align="left" src="https://imgur.com/AWgaYrh" width="30%"/> 
 
 
 ```lua
