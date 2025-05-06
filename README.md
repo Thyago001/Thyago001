@@ -23,11 +23,7 @@ Me chamo Thiago Alves Costa Araújo @Thyago001
 <br><br>
 ```
 ---
-![Lua](https://img.shields.io/badge/Lua-007ACC?style=for-the-badge&logo=lua&logoColor=white)
 
-
-
-  ---
 
 ![Thyago001 GitHub stats](https://github-readme-stats.vercel.app/api?username=Thyago001&show_icons=true&theme=transparent&locale=pt-br)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thyago&theme=transparent&locale=pt-br&layout=normal&langs_count=3)
@@ -68,7 +64,10 @@ Me chamo Thiago Alves Costa Araújo @Thyago001
     <img align="center" alt="Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
   </div>
 
-
+<p align="center">
+    <a href="#"><img src="https://komarev.com/ghpvc/?username=DarkMode&style=for-the-badge&label=Views:&color=gray"/></a>
+    <a href="#"><img src="https://custom-icon-badges.herokuapp.com/github/followers/DarkModde?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follows&logoColor=white"/></a>
+</p>
 ---
 <div align="center">
   <p><i>Aqui você poderá ver um pouco de alguns dos meus trabalhos aos quais fiz durante o período do Curso</i></font></p>
