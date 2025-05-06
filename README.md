@@ -19,14 +19,21 @@
 - 🧠 Focado em adquirir conhecimento e criar um portfólio sólido
 
 ---
+<p align="center">
+  <a href="#">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Thyago001&show_icons=true&hide_border=true&theme=github_dark&border_radius=10&hide_title=true&locale=pt-br"/>
+  </a>
+  <a href="#">
+    <img width="48%" src="https://streak-stats.demolab.com/?user=Thyago001&hide_border=true&theme=github_dark&border_radius=10&locale=pt-BR"/>
+  </a>
+</p>
 
 <p align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Thyago001&show_icons=true&hide_border=true&theme=github_dark&border_radius=0&border_color=30363d&hide_title=true&locale=pt-br&card_width=550"/></a>
-  
-  <a href="#"><img src="https://streak-stats.demolab.com/?user=Thyago001&hide_border=true&theme=github_dark&border_radius=0&border=30363d&locale=pt-BR&card_width=550"/></a>
-  
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thyago001&hide_border=true&theme=github_dark&border_radius=0&border_color=30363d&locale=pt-br&layout=compact&langs_count=5"/></a>
+  <a href="#">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thyago001&hide_border=true&theme=github_dark&border_radius=10&layout=compact&locale=pt-br&langs_count=6"/>
+  </a>
 </p>
+
  
 ---
 
