@@ -11,7 +11,7 @@
 ▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔
 <h3 align="center">Me chamo <strong>Thiago Alves Costa Araujo</strong> </h3> 
   
-  ``` @Thyago001 ```
+<h3 align="center">Me chamo <strong>Thiago Alves Costa Araujo</strong> <br/> <code>a</code></h3>
 ---
 
 ### 📘 Sobre mim
@@ -38,6 +38,18 @@
 <p align="left">
   <img align="center" src="https://i.pinimg.com/originals/6b/13/c5/6b13c5f67c072fd6c531107b51b70359.gif">
 </p>
+
+---
+
+
+### 🚀 Tecnologias e Ferramentas que estou aprendendo:
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Zorin OS](https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white)
 
 ---
 
