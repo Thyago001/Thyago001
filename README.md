@@ -1,5 +1,6 @@
 
 <div align="center">
+<a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FFFFFF&section=header"/>
   <h1 style="'monospace;">👨‍💻 Hello World!! Seja bem vindo ao meu perfil ↓↓↓ <span style="font-size: 150%;"></span></h1>
 </div>
 
@@ -19,6 +20,7 @@ Me chamo **Thiago Alves Costa Araujo**
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.gmail.com/00001091053522sp@al.educacao.sp.gov.br/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Thiago_alves0001/)
 [![Scratch](https://img.shields.io/badge/Scratch-FF6600?style=for-the-badge&logo=Scratch&logoColor=white&logo=https://banner2.cleanpng.com/20180331/zdq/kisspng-scratch-computer-programming-visual-programming-la-scratches-5abf2e169fb533.7652527615224786146542.jpg)](https://scratch.mit.edu/users/THIAGO-2B-TI-LEONE/)
+
 
 ---
 <!-- GIF -->
