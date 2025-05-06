@@ -4,6 +4,26 @@
 <a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&text=👨‍💻%20Hello%20World!!%20Seja%20bem%20vindo%20ao%20meu%20perfil%20↓↓↓&section=header&fontAlign=50&fontAlignY=50&fontSize=30&reversal=true&textBg=false&animation=twinkling&stroke=ffffff&descAlign=50&descAlignY=50"/>
 </div>
 
+```zsh
+> neofetch
+```
+
+<a href="#"><img align="left" src="https://i.imgur.com/GrvWr5i.png" width="20%"/> 
+
+
+```lua
+DarkMode@GitHub
+▔▔▔▔▔▔▔▔▔
+OS: Windows 11 x64
+Shell: Windows Terminal
+Location: Brasil, SP
+Learning: HTML, CSS, JavaScript
+Languages: None
+Hobbies: Cheating in Games, Sleep, CyberSecurity.
+```
+
+
+
 ```
 - 📖 Estudo na **Ufscar** de Sorocaba e no momento estou cursando **Ciência da Computação**
 - 💻 Busco aprender cada dia mais sobre linguagens de programação que sejam De Back-end ou Front-end
