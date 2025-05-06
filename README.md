@@ -5,13 +5,9 @@
 <a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&text=👨‍💻%20Hello%20World!!%20Seja%20bem%20vindo%20ao%20meu%20perfil%20↓↓↓&section=header&fontAlign=50&fontAlignY=50&fontSize=30&reversal=true&textBg=false&animation=twinkling&stroke=ffffff&descAlign=50&descAlignY=50"/>
 </div>
 
-
-
-
-▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔
-<h3 align="center">Me chamo **Thiago Alves Costa Araujo** </h3> 
 ---
-
+### Me chamo **Thiago Alves Costa Araujo** | ``` @Thyago001 ``` 
+▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔
 ### 📘 Sobre mim
 
 - 🎓 **Estudante de Ciência da Computação** na **UFSCar - Sorocaba**
