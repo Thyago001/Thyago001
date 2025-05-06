@@ -4,14 +4,12 @@
 <a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&text=👨‍💻%20Hello%20World!!%20Seja%20bem%20vindo%20ao%20meu%20perfil%20↓↓↓&section=header&fontAlign=50&fontAlignY=50&fontSize=30&reversal=true&textBg=false&animation=twinkling&stroke=ffffff&descAlign=50&descAlignY=50"/>
 </div>
 
-Me chamo **Thiago Alves Costa Araujo**
-```@Thyago001```
-
+```
 - 📖 Estudo na **Ufscar** de Sorocaba e no momento estou cursando **Ciência da Computação**
 - 💻 Busco aprender cada dia mais sobre linguagens de programação que sejam De Back-end ou Front-end
 - 📋 Crio alguns projetos de Games e Abas de Recomendações!!
 - 🥇 Irei aqui demonstrar projetos, Cursos e qualquer que seja um aumento no meu portifólio como Programador
-
+```
   ---
 
 ![Thyago001 GitHub stats](https://github-readme-stats.vercel.app/api?username=Thyago001&show_icons=true&theme=transparent&locale=pt-br)
