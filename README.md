@@ -11,7 +11,7 @@
 ```
 <a href="#"> <img align="left" src="./DarkMeAndaCivicAnime.png" width="20%"/> </a>
 
-``` zsh
+``` lua
 Thiago@GitHub
 ▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔
 Me chamo Thiago Alves Costa Araújo @Thyago001
