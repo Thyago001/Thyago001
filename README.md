@@ -8,7 +8,7 @@
 <a href="#"><img align="left" src="https://imgur.com/AWgaYrh" width="30%"/> 
 
 
-```lua
+```
 Me chamo Thiago Alves Costa Araújo @Thyago001
 ▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔
 - 📖 Formação: Estudo na **Ufscar** de Sorocaba e no momento estou cursando *Ciência da Computação*
