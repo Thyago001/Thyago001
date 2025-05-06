@@ -6,14 +6,9 @@
 
 
 
-```zsh
-> neofetch
-```
-<a href="#"> <img align="left" src="./DarkMeAndaCivicAnime.png" width="20%"/> </a>
 
-lua
-Me chamo Thiago Alves Costa Araújo @Thyago001
-▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔
+##Me chamo **Thiago Alves Costa Araújo** ``` @Thyago001 ```
+▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔
 - 📖 Formação: Estudo na **Ufscar** de Sorocaba e no momento estou cursando **Ciência da Computação**
 - 💻 Metas: Busco aprender cada dia mais sobre linguagens de programação que sejam De Back-end ou Front-end
 - 📋 O que faço: Crio alguns projetos de Games e Abas de Recomendações!!
