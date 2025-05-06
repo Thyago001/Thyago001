@@ -105,8 +105,6 @@
 <div align="center">
   <p><i>Aqui você poderá ver um pouco de alguns dos meus trabalhos aos quais fiz durante o período do Curso</i></font></p>
 </div>
-
----
 <a href="#">
     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&section=footer&fontAlign=50&fontAlignY=50&fontSize=30&reversal=true&textBg=false&animation=twinkling&stroke=ffffff&descAlign=50&descAlignY=50">
 </a>
