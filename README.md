@@ -62,7 +62,7 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![English](https://img.shields.io/badge/English-B1B1B1?style=for-the-badge&logo=googletranslate&logoColor=white)
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Honda_Automobiles_Logo.svg/512px-Honda_Automobiles_Logo.svg.png" alt="Honda Civic" width="100" style="vertical-align: middle;"/>
+![Honda Civic](https://img.shields.io/badge/Honda_Civic-black?style=for-the-badge&logo=honda&logoColor=red)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Zorin OS](https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white)
 
