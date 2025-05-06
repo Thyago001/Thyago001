@@ -14,16 +14,10 @@
 ```lua
 Me chamo Thiago Alves Costa Araújo @Thyago001
 ▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔
-- 📖 Formação: Estudo na **Ufscar** de Sorocaba e no momento estou cursando **Ciência da Computação**
+- 📖 Formação: Estudo na **Ufscar** de Sorocaba e no momento estou cursando *Ciência da Computação*
 - 💻 Metas: Busco aprender cada dia mais sobre linguagens de programação que sejam De Back-end ou Front-end
 - 📋 O que faço: Crio alguns projetos de Games e Abas de Recomendações!!
 - 🥇 Objetivo: Irei aqui demonstrar projetos, Cursos e qualquer que seja um aumento no meu portifólio como Programador
-```
-
-
-
-```
-
 ```
   ---
 
