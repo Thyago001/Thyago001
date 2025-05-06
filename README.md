@@ -19,7 +19,7 @@
 - 🧠 Focado em adquirir conhecimento e criar um portfólio sólido
 
 ---
-<<p align="center">
+<p align="center">
   <a href="#">
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Thyago001&show_icons=true&hide_border=true&theme=default&border_radius=10&hide_title=true&locale=pt-br&title_color=ff5555&icon_color=ff5555&text_color=ffffff&bg_color=0d1117"/>
   </a>
@@ -30,10 +30,12 @@
 
 <p align="center">
   <a href="#">
-    <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thyago001&hide_border=true&theme=default&border_radius=10&layout=compact&locale=pt-br&langs_count=6&title_color=ff5555&text_color=ffffff&bg_color=0d1117"/>
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thyago001&hide_border=true&theme=default&border_radius=10&layout=compact&locale=pt-br&langs_count=6&title_color=ff5555&text_color=ffffff&bg_color=0d1117"/>
+  </a>
+  <a href="#">
+    <img width="48%" src="https://github-profile-trophy.vercel.app/?username=Thyago001&margin-w=15&margin-h=15&row=1&column=6&no-frame=true&no-bg=true&theme=darkhub&title=Commits,Repositories,Followers,Stars,PullRequest,Issues&title_color=ff5555&text_color=ffffff"/>
   </a>
 </p>
-
 
  
 ---
