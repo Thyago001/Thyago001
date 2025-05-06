@@ -33,7 +33,8 @@
     <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thyago001&hide_border=true&theme=default&border_radius=10&layout=compact&locale=pt-br&langs_count=6&title_color=ff5555&text_color=ffffff&bg_color=0d1117"/>
   </a>
   <a href="#">
-   <img width="58%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thyago001&theme=2077" />
+   <img width="58%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thyago001&theme=2077"
+ />
 
 </p>
 
@@ -55,13 +56,13 @@
 ### 🚀 Tecnologias e Ferramentas que estou aprendendo:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-003B80?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![Manim](https://img.shields.io/badge/Manim-000000?style=for-the-badge&logo=manim&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![English](https://img.shields.io/badge/English-B1B1B1?style=for-the-badge&logo=googletranslate&logoColor=white)
+![English](https://img.shields.io/badge/English-2E2E2E?style=for-the-badge&logo=googletranslate&logoColor=4FC3F7)
 ![Honda Civic](https://img.shields.io/badge/Honda_Civic-black?style=for-the-badge&logo=honda&logoColor=red)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Zorin OS](https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white)
