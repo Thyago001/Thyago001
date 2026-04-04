@@ -15,7 +15,7 @@
 
 - 💻 Em constante aprendizado de tecnologias **Front-end** e **Back-end**
 
-- 🕹️ Crio projetos **Diversos**, **Mini-Games** e **Abas de Recomendação**
+- 🕹️ Crio projetos que facilitam o dia a dia, maximizam a performance e principalmente solucione problemas reais!
 
 - 📈 Uso este espaço para registrar e demonstrar minha evolução como programador!!
 
